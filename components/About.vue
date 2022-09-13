@@ -1,6 +1,8 @@
 <template>
-  <section class="min-h-min flex p-4 space-x-4">
-    <div class="flex flex-col space-y-5">
+  <section
+    class="min-h-min m-4 space-x-4 flex bg-gradient-to-r from-white to-transparent items-center justify-start px-32 py-4 min-h-[calc(100vh-32px)]"
+  >
+    <div class="flex flex-col space-y-5 max-w-[800px]">
       <h2 class="font-display text-5xl">Who Am I?</h2>
       <div class="font-body flex flex-col space-y-4 text-xl">
         <p>
@@ -41,8 +43,8 @@
         </p>
       </div>
     </div>
-    <div class="flex items-center">
-      <img src="headshot.webp" alt="headshot of chaitanya" class="w-full" />
+    <div class="max-w-3xl">
+      <img src="/headshot.webp" alt="" class="w-full" />
     </div>
   </section>
 </template>
