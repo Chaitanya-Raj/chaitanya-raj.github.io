@@ -1,7 +1,7 @@
 <template>
   <section class="bg-lavender flex items-center px-32 py-4 m-4 space-x-5">
-    <div class="social flex justify-end flex-1 space-x-4 text-4xl">
-      <!-- Add the style and icon you want using the String format -->
+    <!-- TODO: add hover animation on buttons -->
+    <div class="social flex justify-end flex-1 space-x-4 text-5xl">
       <a href="https://github.com/Chaitanya-Raj">
         <font-awesome-icon icon="fa-brands fa-github fa-3x" />
       </a>
@@ -27,13 +27,13 @@
       </a>
     </div>
     <!-- TODO: add form -->
-    <div class="flex flex-col flex-1 pl-5 border-l border-black">
+    <p class="flex-1 pl-5 border-l border-black">
       If you need a modern and powerful website for your business, startup or
       personally, I am available for work. You can email me directly at
       <a href="mailto:chaitanyarajdixit@gmail.com"
         >chaitanyarajdixit@gmail.com</a
       >
-    </div>
+    </p>
   </section>
 </template>
 

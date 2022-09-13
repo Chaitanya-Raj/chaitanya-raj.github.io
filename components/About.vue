@@ -2,6 +2,10 @@
   <section
     class="min-h-min m-4 space-x-4 flex bg-gradient-to-r from-white to-transparent items-center justify-start px-32 py-4 min-h-[calc(100vh-32px)]"
   >
+    <!-- TODO: Find a better image -->
+    <!-- TODO: Write an interesting bio -->
+
+    <nuxt-img src="/headshot.webp" alt="" class="mx-10" />
     <div class="flex flex-col space-y-5 max-w-[800px]">
       <h2 class="font-display text-5xl">Who Am I?</h2>
       <div class="font-body flex flex-col space-y-4 text-xl">
@@ -42,9 +46,6 @@
           to study/relax to ;)
         </p>
       </div>
-    </div>
-    <div class="max-w-3xl">
-      <img src="/headshot.webp" alt="" class="w-full" />
     </div>
   </section>
 </template>
