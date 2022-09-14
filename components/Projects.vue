@@ -7,7 +7,7 @@
       v-for="project in projects"
       :key="project.title"
       :project="project"
-      class="project"
+      class="even:flex-col lg:even:flex-row-reverse"
     />
   </section>
 </template>
@@ -66,15 +66,3 @@ export default {
   },
 };
 </script>
-
-<style>
-.project:nth-child(even) {
-  flex-direction: column;
-}
-
-@media (min-width: 1024px) {
-  .project:nth-child(even) {
-    flex-direction: row-reverse;
-  }
-}
-</style>

@@ -9,6 +9,8 @@
       fit, I will give you a time and cost estimate.
     </p>
     <a href="#projects">
+      <!-- TODO: Style button -->
+      <!-- TODO: Add hover effect -->
       <button class="font-button px-6 py-4 text-lg text-white bg-black">
         see my work
       </button>

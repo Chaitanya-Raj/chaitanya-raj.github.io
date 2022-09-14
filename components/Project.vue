@@ -3,6 +3,9 @@
     <div
       class="flex items-center justify-center px-4 lg:max-w-[calc(50%)] lg:px-0"
     >
+      <!-- TODO: Make width of all images equal -->
+      <!-- TODO: Add link to the deployed site -->
+      <!-- TODO: Add hover effect -->
       <nuxt-img
         :src="project.preview"
         alt="Project Preview"
@@ -39,5 +42,3 @@ export default {
   },
 };
 </script>
-
-<style></style>
