@@ -1,5 +1,7 @@
 <template>
-  <section class="bg-lavender flex flex-col min-h-[calc(100vh-32px)] px-32 m-4">
+  <section
+    class="bg-lavender flex flex-col min-h-[calc(100vh-32px)] lg:px-32 m-4 px-10"
+  >
     <Header />
     <Hero />
   </section>

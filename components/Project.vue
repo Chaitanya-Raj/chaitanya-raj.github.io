@@ -1,8 +1,19 @@
 <template>
-  <div class="flex my-8">
-    <div class="flex flex-col items-start justify-center">
+  <div class="lg:flex-row flex flex-col space-y-8">
+    <div
+      class="flex items-center justify-center px-4 lg:max-w-[calc(50%)] lg:px-0"
+    >
+      <nuxt-img
+        :src="project.preview"
+        alt="Project Preview"
+        placeholder
+        loading="lazy"
+      />
+    </div>
+    <div class="lg:px-32 flex flex-col items-start justify-center px-10">
+      <p class="font-body font-bold text-gray-400 uppercase">concept</p>
       <a :href="project.source">
-        <h2 class="font-display text-5xl">{{ project.title }}</h2>
+        <h2 class="font-display mt-2 text-5xl">{{ project.title }}</h2>
       </a>
       <!-- TODO: write better descriptions -->
       <p class="font-body mt-6 text-xl">
@@ -17,11 +28,6 @@
         reiciendis ipsam eaque suscipit velit maiores hic eveniet rerum animi.
       </p>
     </div>
-    <nuxt-img
-      :src="project.preview"
-      class="max-w-3xl mx-10"
-      alt="Project Preview"
-    />
   </div>
 </template>
 

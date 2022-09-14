@@ -1,11 +1,19 @@
 <template>
   <section
-    class="min-h-min m-4 space-x-4 flex bg-gradient-to-r from-white to-transparent items-center justify-start px-32 py-4 min-h-[calc(100vh-32px)]"
+    class="min-h-min m-4 space-x-4 bg-gradient-to-r from-white to-transparent items-center justify-start lg:px-32 px-10 py-4 min-h-[calc(100vh-32px)] lg:flex-row flex flex-col my-8 space-y-10"
   >
     <!-- TODO: Find a better image -->
     <!-- TODO: Write an interesting bio -->
 
-    <nuxt-img src="/headshot.webp" alt="" class="mx-10" />
+    <div class="flex items-center justify-center mx-10">
+      <nuxt-img
+        src="/headshot.webp"
+        alt=""
+        class="mx-10"
+        placeholder
+        loading="lazy"
+      />
+    </div>
     <div class="flex flex-col space-y-5 max-w-[800px]">
       <h2 class="font-display text-5xl">Who Am I?</h2>
       <div class="font-body flex flex-col space-y-4 text-xl">

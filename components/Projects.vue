@@ -1,7 +1,5 @@
 <template>
-  <section
-    class="flex flex-col px-32 m-4 min-h-[calc(100vh-32px)] justify-around"
-  >
+  <section class="flex flex-col min-h-[calc(100vh-32px)] space-y-20 my-20">
     <Project
       v-for="project in projects"
       :key="project.title"
@@ -68,10 +66,12 @@ export default {
 
 <style>
 .project:nth-child(even) {
-  flex-direction: row-reverse;
+  flex-direction: column;
 }
 
-.project:nth-child(even) {
-  flex-direction: row-reverse;
+@media (min-width: 1024px) {
+  .project:nth-child(even) {
+    flex-direction: row-reverse;
+  }
 }
 </style>
