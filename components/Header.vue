@@ -1,7 +1,5 @@
 <template>
-  <header
-    class="bg-lavender lg:px-32 lg:py-6 sticky top-0 flex items-center justify-between px-10 py-4 shadow-lg"
-  >
+  <header class="flex items-center justify-between pt-8">
     <a href="#home">
       <img src="logo.svg" alt="Chaitanya Raj Logo" />
     </a>

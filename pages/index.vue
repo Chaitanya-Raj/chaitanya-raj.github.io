@@ -1,6 +1,5 @@
 <template>
   <div>
-    <Header />
     <Home />
     <Projects />
     <About />
