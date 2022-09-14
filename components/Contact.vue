@@ -1,5 +1,8 @@
 <template>
-  <section class="bg-lavender flex items-center px-32 py-4 m-4 space-x-5">
+  <section
+    id="contact"
+    class="bg-lavender flex items-center px-32 py-4 m-4 space-x-5 shadow-lg"
+  >
     <!-- TODO: add hover animation on buttons -->
     <div class="social flex justify-end flex-1 space-x-4 text-5xl">
       <a href="https://github.com/Chaitanya-Raj">

@@ -1,5 +1,6 @@
 <template>
   <section
+    id="about"
     class="min-h-min m-4 space-x-4 bg-gradient-to-r from-white to-transparent items-center justify-start lg:px-32 px-10 py-4 min-h-[calc(100vh-32px)] lg:flex-row flex flex-col my-8 space-y-10"
   >
     <!-- TODO: Find a better image -->
@@ -9,7 +10,7 @@
       <nuxt-img
         src="/headshot.webp"
         alt=""
-        class="mx-10"
+        class="shadow-lg"
         placeholder
         loading="lazy"
       />
@@ -30,6 +31,7 @@
             href="https://lichess.org/@/ChaitanyaRaj"
             target="_blank"
             rel="noopener noreferrer"
+            class="highlight"
             >Chess</a
           >
           and
@@ -37,6 +39,7 @@
             href="https://www.goodreads.com/user/show/97716082-chaitanya"
             target="_blank"
             rel="noopener noreferrer"
+            class="highlight"
             >reading any books</a
           >
           that I can lay my hands on. I'm currently learning UI Design and Figma
@@ -48,6 +51,7 @@
             href="https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
             target="_blank"
             rel="noopener noreferrer"
+            class="highlight"
             >keshi</a
           >
           . He's my second favorite recording artist after lofi chillhop beats

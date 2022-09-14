@@ -1,5 +1,8 @@
 <template>
-  <section class="flex flex-col min-h-[calc(100vh-32px)] space-y-20 my-20">
+  <section
+    id="projects"
+    class="flex flex-col min-h-[calc(100vh-32px)] space-y-20 my-16 py-4"
+  >
     <Project
       v-for="project in projects"
       :key="project.title"

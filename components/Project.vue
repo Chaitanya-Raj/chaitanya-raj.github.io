@@ -8,11 +8,12 @@
         alt="Project Preview"
         placeholder
         loading="lazy"
+        class="shadow-lg"
       />
     </div>
     <div class="lg:px-32 flex flex-col items-start justify-center px-10">
       <p class="font-body font-bold text-gray-400 uppercase">concept</p>
-      <a :href="project.source">
+      <a :href="project.source" class="highlight">
         <h2 class="font-display mt-2 text-5xl">{{ project.title }}</h2>
       </a>
       <!-- TODO: write better descriptions -->
