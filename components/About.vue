@@ -7,7 +7,7 @@
     <!-- TODO: Write an interesting bio -->
 
     <div class="flex items-center justify-center mx-10">
-      <nuxt-img src="/headshot.webp" alt="" class="shadow-lg" placeholder />
+      <nuxt-img src="headshot.webp" alt="" class="shadow-lg" placeholder />
     </div>
     <div class="flex flex-col space-y-5 max-w-[800px]">
       <h2 class="font-display text-5xl">Who Am I?</h2>

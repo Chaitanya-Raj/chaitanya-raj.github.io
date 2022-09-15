@@ -21,7 +21,7 @@
         see my work
       </button>
       <div
-        class="-bottom-1 -right-1 font-button absolute px-6 py-4 text-lg text-white bg-white shadow-lg"
+        class="-bottom-4 -right-4 font-button absolute px-6 py-4 text-lg text-white border-4 border-white shadow-lg opacity-50"
       >
         see my work
       </div>

@@ -46,14 +46,14 @@ export default {
         {
           title: "Aria Oslo",
           description: "lalalalala",
-          preview: "/aria-oslo.png",
+          preview: "aria-oslo.png",
           source: "https://github.com/Chaitanya-Raj/aria-oslo",
           deployed: "https://chaitanya-raj.github.io/aria-oslo",
         },
         {
           title: "AM Studio",
           description: "lalalalala",
-          preview: "/am-studio.png",
+          preview: "am-studio.png",
           source: "https://github.com/Chaitanya-Raj/am-studio",
           deployed: "https://chaitanya-raj.github.io/am-studio",
         },
