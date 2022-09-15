@@ -20,7 +20,11 @@ export default {
         content:
           "Fullstack Web Developer and UI/UX Designer based in New Delhi.",
       },
-      { name: "format-detection", content: "telephone=no" },
+      {
+        hid: "og-image",
+        property: "og:image",
+        content: "favicon.ico",
+      },
     ],
     link: [
       { rel: "icon", type: "image/x-icon", href: "favicon.ico" },
