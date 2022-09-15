@@ -11,7 +11,7 @@
     </div>
     <div class="flex flex-col space-y-5 max-w-[800px]">
       <h2 class="font-display text-5xl">Who Am I?</h2>
-      <div class="font-body flex flex-col space-y-4 text-xl">
+      <div class="font-body md:text-xl flex flex-col space-y-4">
         <p>
           Hi, I'm Chaitanya. I'm a web developer from New Delhi and a CS alumni
           of the University of Delhi. I have experience with front-end

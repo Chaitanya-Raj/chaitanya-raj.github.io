@@ -1,5 +1,5 @@
 <template>
-  <header class="md:flex-row flex flex-col items-center justify-between pt-8">
+  <header class="md:flex flex-row items-center justify-between hidden pt-8">
     <a href="#home">
       <img src="logo.svg" alt="Chaitanya Raj Logo" />
     </a>
