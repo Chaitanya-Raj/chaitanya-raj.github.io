@@ -6,9 +6,10 @@
       Hi, I’m Chaitanya, Web Developer and UI/UX Designer
     </h1>
     <p class="font-body mt-6 mb-16 text-lg">
-      I design and build beautiful websites for businesses around the globe. If
-      you need a modern and powerful website, send me an email. If we are a good
-      fit, I will give you a time and cost estimate.
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi,
+      doloremque aliquid? Provident ab, consequuntur repellendus, incidunt
+      voluptatem autem, quod nam molestias ut ipsa facilis? Maiores quos vitae
+      harum molestias. Dolorum.
     </p>
     <a
       href="#projects"

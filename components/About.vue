@@ -1,12 +1,12 @@
 <template>
   <section
     id="about"
-    class="min-h-min m-4 space-x-4 bg-gradient-to-r from-white to-transparent items-center justify-start lg:px-32 px-10 py-4 min-h-[calc(100vh-32px)] lg:flex-row flex flex-col my-8 space-y-10"
+    class="min-h-min m-4 space-x-4 bg-gradient-to-r from-white to-transparent items-center justify-start lg:px-32 md:px-10 px-4 py-4 min-h-[calc(100vh-32px)] lg:flex-row flex flex-col my-8 space-y-10"
   >
     <!-- TODO: Find a better image -->
     <!-- TODO: Write an interesting bio -->
 
-    <div class="flex items-center justify-center mx-10">
+    <div class="flex items-center justify-center">
       <nuxt-img src="headshot.webp" alt="" class="shadow-lg" placeholder />
     </div>
     <div class="flex flex-col space-y-5 max-w-[800px]">
