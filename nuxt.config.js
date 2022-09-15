@@ -7,18 +7,23 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "portfolio",
+    title: "Chaitanya Raj",
     htmlAttrs: {
       lang: "en",
     },
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { hid: "description", name: "description", content: "" },
+      {
+        hid: "description",
+        name: "description",
+        content:
+          "Fullstack Web Developer and UI/UX Designer based in New Delhi.",
+      },
       { name: "format-detection", content: "telephone=no" },
     ],
     link: [
-      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" },
+      { rel: "icon", type: "image/x-icon", href: "favicon.ico" },
       {
         rel: "stylesheet",
         href: "https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Mulish:wght@400;700;900&family=Nunito+Sans&display=swap",
