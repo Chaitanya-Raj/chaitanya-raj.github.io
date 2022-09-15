@@ -10,7 +10,6 @@
         :src="project.preview"
         alt="Project Preview"
         placeholder
-        loading="lazy"
         class="shadow-lg"
       />
     </div>

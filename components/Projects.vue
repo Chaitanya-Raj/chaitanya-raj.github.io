@@ -19,30 +19,30 @@ export default {
   data() {
     return {
       projects: [
-        {
-          title: "Amazon Clone",
-          description: "lalalalala",
-          preview: "/amazon-clone.png",
-          source: "https://github.com/Chaitanya-Raj/amazon-clone",
-        },
-        {
-          title: "Github Timeline",
-          description: "lalalalala",
-          preview: "/github-timeline.png",
-          source: "https://github.com/Chaitanya-Raj/timeline",
-        },
-        {
-          title: "Chatroom",
-          description: "lalalalala",
-          preview: "/chatroom.png",
-          source: "https://github.com/Chaitanya-Raj/chatroom",
-        },
-        {
-          title: "Password Generator",
-          description: "lalalalala",
-          preview: "/password-generator.png",
-          source: "https://github.com/Chaitanya-Raj/password-generator",
-        },
+        // {
+        //   title: "Amazon Clone",
+        //   description: "lalalalala",
+        //   preview: "/amazon-clone.png",
+        //   source: "https://github.com/Chaitanya-Raj/amazon-clone",
+        // },
+        // {
+        //   title: "Github Timeline",
+        //   description: "lalalalala",
+        //   preview: "/github-timeline.png",
+        //   source: "https://github.com/Chaitanya-Raj/timeline",
+        // },
+        // {
+        //   title: "Chatroom",
+        //   description: "lalalalala",
+        //   preview: "/chatroom.png",
+        //   source: "https://github.com/Chaitanya-Raj/chatroom",
+        // },
+        // {
+        //   title: "Password Generator",
+        //   description: "lalalalala",
+        //   preview: "/password-generator.png",
+        //   source: "https://github.com/Chaitanya-Raj/password-generator",
+        // },
         {
           title: "Aria Oslo",
           description: "lalalalala",
@@ -55,12 +55,12 @@ export default {
           preview: "/am-studio.png",
           source: "https://github.com/Chaitanya-Raj/am-studio",
         },
-        {
-          title: "Vincent Schwartz",
-          description: "lalalalala",
-          preview: "/vincent-schwartz.png",
-          source: "https://github.com/Chaitanya-Raj/vincent-schwartz",
-        },
+        // {
+        //   title: "Vincent Schwartz",
+        //   description: "lalalalala",
+        //   preview: "/vincent-schwartz.png",
+        //   source: "https://github.com/Chaitanya-Raj/vincent-schwartz",
+        // },
       ],
     };
   },
