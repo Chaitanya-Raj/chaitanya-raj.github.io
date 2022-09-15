@@ -109,7 +109,7 @@ html {
   color: black;
   text-decoration: none;
   background-position-y: -0%;
-  background-image: linear-gradient(transparent, rgba(162, 0, 255, 0.315) 80%);
+  background-image: linear-gradient(transparent, rgba(168, 180, 255, 1) 80%);
   transition: background 500ms ease;
   background-size: auto 175%;
   padding: 0 4px;

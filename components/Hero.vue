@@ -1,6 +1,8 @@
 <template>
-  <div class="flex flex-col items-start justify-center flex-1 max-w-3xl py-32">
-    <h1 class="font-display text-6xl">
+  <div
+    class="lg:py-32 flex flex-col items-start justify-center flex-1 max-w-3xl py-10"
+  >
+    <h1 class="font-display lg:text-6xl text-4xl">
       Hi, I’m Chaitanya, Web Developer and UI/UX Designer
     </h1>
     <p class="font-body mt-6 mb-16 text-lg">
@@ -8,12 +10,21 @@
       you need a modern and powerful website, send me an email. If we are a good
       fit, I will give you a time and cost estimate.
     </p>
-    <a href="#projects">
+    <a
+      href="#projects"
+      class="hover:scale-105 relative transition-all shadow-lg"
+    >
       <!-- TODO: Style button -->
-      <!-- TODO: Add hover effect -->
-      <button class="font-button px-6 py-4 text-lg text-white bg-black">
+      <button
+        class="font-button relative z-10 px-6 py-4 text-lg text-white bg-black"
+      >
         see my work
       </button>
+      <div
+        class="-bottom-1 -right-1 font-button absolute px-6 py-4 text-lg text-white bg-white shadow-lg"
+      >
+        see my work
+      </div>
     </a>
   </div>
 </template>

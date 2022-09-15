@@ -7,7 +7,7 @@
       v-for="project in projects"
       :key="project.title"
       :project="project"
-      class="even:flex-col lg:even:flex-row-reverse"
+      class="even:flex-col lg:even:flex-row-reverse lg:even:space-x-reverse"
     />
   </section>
 </template>
@@ -48,12 +48,14 @@ export default {
           description: "lalalalala",
           preview: "/aria-oslo.png",
           source: "https://github.com/Chaitanya-Raj/aria-oslo",
+          deployed: "https://chaitanya-raj.github.io/aria-oslo",
         },
         {
           title: "AM Studio",
           description: "lalalalala",
           preview: "/am-studio.png",
           source: "https://github.com/Chaitanya-Raj/am-studio",
+          deployed: "https://chaitanya-raj.github.io/am-studio",
         },
         // {
         //   title: "Vincent Schwartz",
