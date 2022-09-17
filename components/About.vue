@@ -1,7 +1,7 @@
 <template>
   <section
     id="about"
-    class="min-h-min m-4 space-x-4 bg-gradient-to-r from-white to-transparent items-center justify-start lg:px-32 md:px-10 px-4 py-4 min-h-[calc(100vh-32px)] lg:flex-row flex flex-col my-8 space-y-10"
+    class="min-h-min m-4 space-x-4 bg-gradient-to-r from-white to-transparent items-center justify-start lg:px-32 md:px-10 px-4 py-4 min-h-[calc(100vh-32px)] lg:flex-row flex flex-col my-8 space-y-10 lg:space-x-10"
   >
     <!-- TODO: Find a better image -->
     <!-- TODO: Write an interesting bio -->
