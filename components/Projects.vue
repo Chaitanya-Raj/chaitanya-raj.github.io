@@ -32,7 +32,7 @@ export default {
           description: "A clone of Amazon made with React under the hood.",
           preview: "amazon-clone.png",
           source: "https://github.com/Chaitanya-Raj/amazon-clone",
-          deployed: "clone-c36a5.web.app/",
+          deployed: "https://clone-c36a5.web.app/",
           tags: ["ReactJS", "CSS3"],
         },
         {
