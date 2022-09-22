@@ -113,6 +113,7 @@ html {
   transition: background 500ms ease;
   background-size: auto 175%;
   padding: 0 4px;
+  border-radius: 4px;
 }
 
 a:hover {

@@ -1,7 +1,7 @@
 <template>
   <section
     id="contact"
-    class="bg-lavender flex min-h-[calc(100vh-32px)] lg:px-32 m-4 px-10 shadow-lg items-center justify-center"
+    class="bg-lavender flex min-h-[calc(100vh-32px)] lg:px-32 m-4 px-10 shadow-lg items-center justify-center rounded"
   >
     <div class="flex flex-col items-center flex-1">
       <h1 class="font-display md:text-5xl mb-3 text-3xl">Get In Touch</h1>
@@ -32,7 +32,7 @@
         ></textarea>
         <button
           type="submit"
-          class="font-button hover:scale-105 hover:shadow-xl px-6 py-4 text-xl text-white transition-all bg-black shadow-lg"
+          class="font-button hover:scale-105 hover:shadow-xl px-6 py-4 text-xl text-white transition-all bg-black rounded shadow-lg"
         >
           Send
         </button>

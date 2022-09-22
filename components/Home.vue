@@ -1,7 +1,7 @@
 <template>
   <section
     id="home"
-    class="bg-lavender flex flex-col min-h-[calc(100vh-32px)] lg:px-32 m-4 px-10 shadow-lg"
+    class="bg-lavender flex flex-col min-h-[calc(100vh-32px)] lg:px-32 m-4 px-10 shadow-lg rounded"
   >
     <Header />
     <Hero />

@@ -17,12 +17,12 @@
       class="hover:scale-105 relative transition-all shadow-lg"
     >
       <button
-        class="font-button relative z-10 px-6 py-4 text-lg text-white bg-black"
+        class="font-button relative z-10 px-6 py-4 text-lg text-white bg-black rounded"
       >
         see my work
       </button>
       <div
-        class="-bottom-4 -right-4 font-button absolute px-6 py-4 text-lg text-white border-4 border-white shadow-lg opacity-50"
+        class="-bottom-4 -right-4 font-button absolute px-6 py-4 text-lg text-white border-4 border-white rounded shadow-lg opacity-50"
       >
         see my work
       </div>
