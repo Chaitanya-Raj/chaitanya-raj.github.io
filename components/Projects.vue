@@ -21,11 +21,11 @@ export default {
       projects: [
         {
           title: "Nuxttube",
-          description: "A clone of the Youtube Frontend made with NuxtJS 2.",
+          description: "A clone of the Youtube Frontend made with Nuxt.",
           preview: "/nuxt-tube.png",
           source: "https://github.com/Chaitanya-Raj/youtube-nuxt",
           deployed: "https://chaitanya-raj.github.io/youtube-nuxt",
-          tags: ["NuxtJS", "VueJs", "TailwindCSS"],
+          tags: ["Nuxt", "Vue", "TailwindCSS"],
         },
         {
           title: "Amazon",
@@ -33,7 +33,7 @@ export default {
           preview: "amazon-clone.png",
           source: "https://github.com/Chaitanya-Raj/amazon-clone",
           deployed: "https://clone-c36a5.web.app/",
-          tags: ["ReactJS", "CSS3"],
+          tags: ["React", "Firebase"],
         },
         {
           title: "Chatroom",
@@ -42,7 +42,7 @@ export default {
           preview: "chatroom.png",
           source: "https://github.com/Chaitanya-Raj/chatroom",
           deployed: "https://thawing-brushlands-22272.herokuapp.com/",
-          tags: ["ReactJS", "WebSockets"],
+          tags: ["React", "Express", "NodeJS", "WebSocket"],
         },
         {
           title: "Github Timeline",
@@ -50,7 +50,7 @@ export default {
           preview: "github-timeline.png",
           source: "https://github.com/Chaitanya-Raj/timeline",
           deployed: "https://chaitanya-raj.github.io/timeline",
-          tags: ["ReactJs", "GraphQL"],
+          tags: ["React", "GraphQL"],
         },
         {
           title: "Password Generator",
@@ -59,7 +59,7 @@ export default {
           preview: "password-generator.png",
           source: "https://github.com/Chaitanya-Raj/password-generator",
           deployed: "https://chaitanya-raj.github.io/password-generator",
-          tags: ["ReactJS"],
+          tags: ["React"],
         },
         {
           title: "Aria Oslo",
@@ -67,7 +67,7 @@ export default {
           preview: "aria-oslo.png",
           source: "https://github.com/Chaitanya-Raj/aria-oslo",
           deployed: "https://chaitanya-raj.github.io/aria-oslo",
-          tags: ["HTML5", "CSS3", "JavaScript", "Figma"],
+          tags: ["HTML5", "CSS3", "Figma"],
         },
         // {
         //   title: "AM Studio",
