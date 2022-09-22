@@ -76,7 +76,7 @@
         </a>
 
         <a
-          href="static/Chaitanya-Raj.pdf"
+          href="Chaitanya-Raj.pdf"
           target="_blank"
           class="hover:scale-110 transition-all"
         >
