@@ -6,16 +6,16 @@
       Hi, I’m Chaitanya, Web Developer and UI/UX Designer
     </h1>
     <p class="font-body mt-6 mb-16 text-lg">
-      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi,
-      doloremque aliquid? Provident ab, consequuntur repellendus, incidunt
-      voluptatem autem, quod nam molestias ut ipsa facilis? Maiores quos vitae
-      harum molestias. Dolorum.
+      I'm a web developer from New Delhi and a CS alumni of the University of
+      Delhi. I have worked with React (NextJS) / Vue (NuxtJS) for front-end
+      development, Node.js, Webflow for no-code dev and Figma for web design.
+      <br />
+      I write sometimes.
     </p>
     <a
       href="#projects"
       class="hover:scale-105 relative transition-all shadow-lg"
     >
-      <!-- TODO: Style button -->
       <button
         class="font-button relative z-10 px-6 py-4 text-lg text-white bg-black"
       >

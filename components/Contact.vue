@@ -30,7 +30,6 @@
           placeholder="Message"
           class="form-control bg-clip-padding block h-48 px-4 py-2 m-0 text-xl font-normal text-gray-700 transition ease-in-out bg-white border border-gray-300 border-solid rounded resize-none"
         ></textarea>
-        <!-- your other form fields go here -->
         <button
           type="submit"
           class="font-button hover:scale-105 hover:shadow-xl px-6 py-4 text-xl text-white transition-all bg-black shadow-lg"

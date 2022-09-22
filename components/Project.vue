@@ -21,15 +21,7 @@
       </a>
       <!-- TODO: write better descriptions -->
       <p class="font-body md:text-xl mt-6">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae corrupti
-        nam magni, doloremque dignissimos qui, aperiam sapiente voluptatibus,
-        ratione quia fugit! Earum, consectetur. Sunt eius, voluptas voluptatum
-        odio minima cum.
-      </p>
-      <p class="font-body md:text-xl mt-2">
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat, nemo.
-        Commodi, quidem officiis laudantium qui adipisci placeat amet quas culpa
-        reiciendis ipsam eaque suscipit velit maiores hic eveniet rerum animi.
+        {{ project.description }}
       </p>
     </div>
   </div>
