@@ -12,15 +12,25 @@
         />
       </a>
     </div>
-    <div class="flex flex-col items-start justify-center">
-      <p class="font-body font-bold text-gray-400 uppercase">concept</p>
+    <div class="flex flex-col items-start justify-center w-full">
+      <p class="font-body font-bold tracking-widest text-gray-400 uppercase">
+        concept
+      </p>
       <a :href="project.source" class="highlight">
         <h2 class="font-display md:text-5xl mt-2 text-4xl">
           {{ project.title }}
         </h2>
       </a>
+      <div class="flex gap-2 mt-4">
+        <span
+          v-for="tag in project.tags"
+          :key="tag"
+          class="bg-lavender px-4 py-1 text-xs font-medium text-gray-700 rounded"
+          >{{ tag }}</span
+        >
+      </div>
       <!-- TODO: write better descriptions -->
-      <p class="font-body md:text-xl mt-6">
+      <p class="font-body md:text-xl mt-5">
         {{ project.description }}
       </p>
     </div>
