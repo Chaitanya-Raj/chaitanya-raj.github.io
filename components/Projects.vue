@@ -22,7 +22,7 @@ export default {
         {
           title: "Nuxttube",
           description: "A clone of the Youtube Frontend made with Nuxt.",
-          preview: "/nuxt-tube.png",
+          preview: "/nuxt-tube.webp",
           source: "https://github.com/Chaitanya-Raj/youtube-nuxt",
           deployed: "https://chaitanya-raj.github.io/youtube-nuxt",
           tags: ["Nuxt", "Vue", "TailwindCSS"],
@@ -30,7 +30,7 @@ export default {
         {
           title: "Amazon",
           description: "A clone of Amazon made with React under the hood.",
-          preview: "amazon-clone.png",
+          preview: "amazon-clone.webp",
           source: "https://github.com/Chaitanya-Raj/amazon-clone",
           deployed: "https://clone-c36a5.web.app/",
           tags: ["React", "Firebase"],
@@ -39,7 +39,7 @@ export default {
           title: "Chatroom",
           description:
             "A simple anonymous chatroom which remembers nothing. Live in the moment ;)",
-          preview: "chatroom.png",
+          preview: "chatroom.webp",
           source: "https://github.com/Chaitanya-Raj/chatroom",
           deployed: "https://thawing-brushlands-22272.herokuapp.com/",
           tags: ["React", "Express", "NodeJS", "WebSocket"],
@@ -47,7 +47,7 @@ export default {
         {
           title: "Github Timeline",
           description: "Shows a timeline of a users activities on Github.",
-          preview: "github-timeline.png",
+          preview: "github-timeline.webp",
           source: "https://github.com/Chaitanya-Raj/timeline",
           deployed: "https://chaitanya-raj.github.io/timeline",
           tags: ["React", "GraphQL"],
@@ -56,7 +56,7 @@ export default {
           title: "Password Generator",
           description:
             "A password generator for the times when you need a secure password quickly.",
-          preview: "password-generator.png",
+          preview: "password-generator.webp",
           source: "https://github.com/Chaitanya-Raj/password-generator",
           deployed: "https://chaitanya-raj.github.io/password-generator",
           tags: ["React"],
@@ -64,7 +64,7 @@ export default {
         {
           title: "Aria Oslo",
           description: "A concept portfolio site for a ficitonal client.",
-          preview: "aria-oslo.png",
+          preview: "aria-oslo.webp",
           source: "https://github.com/Chaitanya-Raj/aria-oslo",
           deployed: "https://chaitanya-raj.github.io/aria-oslo",
           tags: ["HTML5", "CSS3", "Figma"],
@@ -72,14 +72,14 @@ export default {
         // {
         //   title: "AM Studio",
         //   description: "lalalalala",
-        //   preview: "am-studio.png",
+        //   preview: "am-studio.webp",
         //   source: "https://github.com/Chaitanya-Raj/am-studio",
         //   deployed: "https://chaitanya-raj.github.io/am-studio",
         // },
         // {
         //   title: "Vincent Schwartz",
         //   description: "lalalalala",
-        //   preview: "/vincent-schwartz.png",
+        //   preview: "/vincent-schwartz.webp",
         //   source: "https://github.com/Chaitanya-Raj/vincent-schwartz",
         // },
       ],
