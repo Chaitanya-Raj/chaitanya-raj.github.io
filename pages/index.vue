@@ -50,6 +50,7 @@ export default Vue.extend({
 <style>
 html {
   scroll-behavior: smooth;
+  background: #f8f8ff;
 }
 
 /* .highlight {

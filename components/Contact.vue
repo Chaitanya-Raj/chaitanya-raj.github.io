@@ -6,12 +6,12 @@
     <div class="flex flex-col items-center flex-1">
       <h1 class="font-display md:text-5xl mb-3 text-3xl">Get In Touch</h1>
       <p class="font-body md:text-xl max-w-sm mb-8 text-lg text-center">
-        Contact me below and I’ll try to get back to you within one business day
+        Contact me below and I’ll try to get back to you as soon as I can.
       </p>
       <form
         action="https://formspree.io/f/xknejgor"
         method="POST"
-        class="flex flex-col 2xl:w-[50%] md:w-[80%] w-full pb-10 space-y-4 text-xl border-b border-black"
+        class="flex flex-col 2xl:w-[50%] md:w-[80%] w-full space-y-4 text-xl"
       >
         <input
           type="text"
@@ -37,12 +37,23 @@
           Send
         </button>
       </form>
+      <p class="font-body my-6 text-2xl font-bold">or</p>
+      <p
+        class="font-body md:text-xl pb-6 mb-6 text-lg text-center border-b border-black"
+      >
+        you can email me at
+
+        <a href="mailto:chaitanyarajdixit@gmail.com" class="highlight">
+          chaitanyarajdixit@gmail.com
+        </a>
+      </p>
       <div
-        class="social md:text-5xl flex justify-end flex-1 mt-8 space-x-4 text-4xl"
+        class="social md:text-5xl flex justify-end flex-1 space-x-4 text-4xl"
       >
         <a
           href="https://github.com/Chaitanya-Raj"
           class="hover:scale-110 transition-all"
+          title="github"
         >
           <font-awesome-icon icon="fa-brands fa-github fa-3x" />
         </a>
@@ -50,6 +61,7 @@
         <a
           href="https://www.linkedin.com/in/chaitanya-raj-4b3285187/"
           class="hover:scale-110 transition-all"
+          title="linkedin"
         >
           <font-awesome-icon icon="fa-brands fa-linkedin fa-3x" />
         </a>
@@ -57,6 +69,7 @@
         <a
           href="https://www.instagram.com/_chaitanya.raj/"
           class="hover:scale-110 transition-all"
+          title="instagram"
         >
           <font-awesome-icon icon="fa-brands fa-instagram fa-3x" />
         </a>
@@ -64,21 +77,24 @@
         <a
           href="https://twitter.com/0xClef"
           class="hover:scale-110 transition-all"
+          title="twitter"
         >
           <font-awesome-icon icon="fa-brands fa-twitter fa-3x" />
         </a>
 
-        <a
+        <!-- <a
           href="mailto:chaitanyarajdixit@gmail.com"
           class="hover:scale-110 transition-all"
+          title="email"
         >
           <font-awesome-icon icon="fa-solid fa-envelope fa-3x" />
-        </a>
+        </a> -->
 
         <a
           href="Chaitanya-Raj.pdf"
           target="_blank"
           class="hover:scale-110 transition-all"
+          title="resume"
         >
           <font-awesome-icon icon="fa-solid fa-file-alt fa-3x" />
         </a>

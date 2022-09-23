@@ -1,14 +1,13 @@
 <template>
-  <div
-    class="lg:py-32 flex flex-col items-start justify-center flex-1 max-w-3xl py-10"
-  >
-    <h1 class="font-display lg:text-6xl text-4xl">
-      Hi, I’m Chaitanya, Web Developer and UI/UX Designer
+  <div class="lg:py-32 flex flex-col items-start justify-center flex-1 py-10">
+    <h1 class="font-display lg:text-6xl max-w-4xl text-4xl">
+      Hi, I’m Chaitanya, Web Developer and UI Designer
     </h1>
-    <p class="font-body mt-6 mb-16 text-lg">
-      I'm a web developer from New Delhi and a CS alumni of the University of
-      Delhi. I have worked with React (NextJS) / Vue (NuxtJS) for front-end
-      development, Node.js, Webflow for no-code dev and Figma for web design.
+    <p class="font-body max-w-[735px] mt-6 mb-16 text-lg">
+      I'm a fullstack web developer from New Delhi and a CS alumni of the
+      University of Delhi. I have worked with React (NextJS) / Vue (NuxtJS) for
+      front-end dev, Node.js for back-end, Webflow for no-code dev and Figma for
+      web design.
       <br />
       I write sometimes.
     </p>

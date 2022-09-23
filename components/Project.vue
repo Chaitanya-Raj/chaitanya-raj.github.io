@@ -4,6 +4,7 @@
   >
     <div class="flex items-center justify-center max-w-4xl">
       <a :href="project.deployed">
+        <!-- TODO: Optimize Images -->
         <nuxt-img
           :src="project.preview"
           alt="Project Preview"
@@ -13,7 +14,7 @@
       </a>
     </div>
     <div class="flex flex-col items-start justify-center w-full">
-      <p class="font-body font-bold tracking-widest text-gray-400 uppercase">
+      <p class="font-body font-bold tracking-widest text-gray-500 uppercase">
         concept
       </p>
       <a :href="project.source" class="highlight">
