@@ -59,7 +59,7 @@
         </a>
 
         <a
-          href="https://www.linkedin.com/in/chaitanya-raj-4b3285187/"
+          href="https://www.linkedin.com/in/chaitanyarajdixit/"
           class="hover:scale-110 transition-all"
           title="linkedin"
         >

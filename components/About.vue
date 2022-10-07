@@ -9,9 +9,8 @@
     <div class="flex items-center justify-center">
       <nuxt-img
         src="headshot.webp"
-        alt=""
+        alt="chaitanya's headshot"
         class="rounded shadow-lg"
-        placeholder
       />
     </div>
     <div class="flex flex-col space-y-5 max-w-[800px]">

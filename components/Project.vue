@@ -8,7 +8,6 @@
         <nuxt-img
           :src="project.preview"
           alt="Project Preview"
-          placeholder
           class="hover:shadow-xl hover:scale-110 lg:scale-100 lg:hover:scale-105 transition-all scale-105 rounded shadow-lg"
         />
       </a>
