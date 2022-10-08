@@ -51,11 +51,11 @@
         <p>
           I also love listening to
           <a
-            href="https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+            href="https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
             target="_blank"
             rel="noopener noreferrer"
             class="highlight"
-            >keshi</a
+            >FKJ</a
           >
           . He's my second favorite recording artist after lofi chillhop beats
           to study/relax to ;)
