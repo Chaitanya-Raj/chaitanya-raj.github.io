@@ -17,13 +17,22 @@ export default {
       {
         hid: "description",
         name: "description",
-        content:
-          "Fullstack Web Developer and UI/UX Designer based in New Delhi.",
+        content: "Fullstack Web Developer and UI Designer based in New Delhi.",
       },
       {
         hid: "og-image",
         property: "og:image",
-        content: "favicon.ico",
+        content: "/headshot.webp",
+      },
+      {
+        hid: "og-description",
+        name: "og:description",
+        content: "Fullstack Web Developer and UI Designer based in New Delhi.",
+      },
+      {
+        hid: "og-url",
+        name: "og:url",
+        content: "https://chaitanya-raj.github.io",
       },
     ],
     link: [
