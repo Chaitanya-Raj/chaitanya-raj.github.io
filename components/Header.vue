@@ -6,7 +6,7 @@
     <nav class="font-body md:pt-0 flex items-center pt-4 space-x-4 font-bold">
       <a href="#projects" class="highlight">my work</a>
       <a href="#about" class="highlight">about me</a>
-      <a href="https://chaitanyaraj.hashnode.dev/" class="highlight">my blog</a>
+      <a href="https://blog.chaitanyaraj.dev/" class="highlight">my blog</a>
       <a href="#contact" class="highlight">get in touch</a>
     </nav>
   </header>
