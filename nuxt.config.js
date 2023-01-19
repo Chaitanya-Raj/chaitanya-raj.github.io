@@ -32,7 +32,7 @@ export default {
       {
         hid: "og-url",
         name: "og:url",
-        content: "https://chaitanya-raj.github.io",
+        content: "https://chaitanyaraj.dev",
       },
     ],
     link: [
